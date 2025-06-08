@@ -1,7 +1,7 @@
 ---
 layout: page
 title: tech stuff
-image: assets/images/pic01.jpg
+image: assets/images/img01.jpg.jpg
 nav-menu: true
 ---
 
